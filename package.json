@@ -1,0 +1,17 @@
+{
+  "name": "node-fullstack",
+  "version": "1.0.0",
+  "description": "proiect node fullstack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cosmin",
+  "license": "ISC",
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  },
+  "devDependencies": {
+    "dayjs": "^1.11.10"
+  }
+}
